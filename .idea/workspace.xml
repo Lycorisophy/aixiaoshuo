@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aixiaoshuo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_decode_rewrite_eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_ensure_eval_dir.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_export_summaries_b64.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_find_bgic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_find_parts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_read_part_summaries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_read_part_summaries2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_scan_bgic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/t.b64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/t2.b64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp_eval_p1.b64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/00_项目说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/00_项目说明.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/01_故事大纲.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/01_故事大纲.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/02_目录结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/02_目录结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/03_项目进度.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/03_项目进度.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/百鬼入城_连载稿_原文件.md" beforeDir="false" />
+    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="fix(smb):让AI理解POV双线叙事好困难，AI文笔好烂">
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_decode_p3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_decode_tmp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_find_part3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_list_part3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_read_p3_sum_a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_read_p3_sum_b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_read_part2_a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_read_part2_b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_tmp_read2.b64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/_tmp_read2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿/01_故事大纲.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿/01_故事大纲.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿/03_项目进度.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿/03_项目进度.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +52,7 @@
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,11 +71,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775043211106</updated>
-      <workItem from="1775043212120" duration="657000" />
+      <workItem from="1775043212120" duration="2503000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(smb):添加蚀名簿">
+      <option name="closed" value="true" />
+      <created>1775046057706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775046057706</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix(smb):让AI理解POV双线叙事好困难，AI文笔好烂">
+      <option name="closed" value="true" />
+      <created>1775047166970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775047166970</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(smb):添加蚀名簿" />
+    <MESSAGE value="fix(smb):让AI理解POV双线叙事好困难，AI文笔好烂" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(smb):让AI理解POV双线叙事好困难，AI文笔好烂" />
   </component>
 </project>
