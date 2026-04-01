@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aixiaoshuo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_decode_rewrite_eval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_ensure_eval_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_export_summaries_b64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_find_bgic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_find_parts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_read_part_summaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_read_part_summaries2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scan_bgic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.b64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t2.b64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp_eval_p1.b64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/00_项目说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/00_项目说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/01_故事大纲.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/01_故事大纲.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/02_目录结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/02_目录结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/03_项目进度.md" beforeDir="false" afterPath="$PROJECT_DIR$/百鬼入城/03_项目进度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/百鬼入城/百鬼入城_连载稿_原文件.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lycorisophy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Lycorisophy/aixiaoshuo.git",
+    "accountId": "84a8b602-db52-48f3-8abf-45ad8c3097ba"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3Bkq2mjPHuly94I7lOvPMj71Duz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="" />
+      <created>1775043211106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775043211106</updated>
+      <workItem from="1775043212120" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
