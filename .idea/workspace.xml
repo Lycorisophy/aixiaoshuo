@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="feat(smb):先让AI发挥主观能动性，自己先写吧，AI写完我再做编辑校对重写等工作">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/《蚀名簿》完整版.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/00_项目说明.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/01_故事大纲.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/02_目录结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/03_项目进度.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/04_人物设定.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/05_定场诗集.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/06_参考资料.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/07_理论框架.md" beforeDir="false" />
+    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="feat(smb2):换个AI重写">
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/04_人物设定.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v2/设定/04_人物设定.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/05_定场诗集.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v2/设定/05_定场诗集.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775043211106</updated>
-      <workItem from="1775043212120" duration="6572000" />
+      <workItem from="1775043212120" duration="7302000" />
     </task>
     <task id="LOCAL-00001" summary="feat(smb):添加蚀名簿">
       <option name="closed" value="true" />
@@ -111,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775110400665</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat(smb2):换个AI重写">
+      <option name="closed" value="true" />
+      <created>1775112083840</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775112083840</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +121,7 @@
     <MESSAGE value="feat(smb):添加蚀名簿" />
     <MESSAGE value="fix(smb):让AI理解POV双线叙事好困难，AI文笔好烂" />
     <MESSAGE value="feat(smb):先让AI发挥主观能动性，自己先写吧，AI写完我再做编辑校对重写等工作" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(smb):先让AI发挥主观能动性，自己先写吧，AI写完我再做编辑校对重写等工作" />
+    <MESSAGE value="feat(smb2):换个AI重写" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(smb2):换个AI重写" />
   </component>
 </project>
