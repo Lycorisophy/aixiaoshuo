@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="2026年4月2日19点05分">
+    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="2026年4月2日23点36分">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/正文/第一章_侵_第 01 节_雨落铅灰.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v2/正文/第一章_侵_第 01 节_雨落铅灰.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/正文/第二章_啮_第 09 节_暗涌.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/00_核心设定框架.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/01_故事大纲.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/02_目录结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/05_定场诗集.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/06_参考资料.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/07_理论框架.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/08_核心诡计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/09_证据链设计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/项目规划.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/进度.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v2/进度.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775043211106</updated>
       <workItem from="1775043212120" duration="10250000" />
-      <workItem from="1775122894134" duration="6604000" />
+      <workItem from="1775122894134" duration="7815000" />
     </task>
     <task id="LOCAL-00001" summary="feat(smb):添加蚀名簿">
       <option name="closed" value="true" />
@@ -171,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775127942502</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2026年4月2日23点36分">
+      <option name="closed" value="true" />
+      <created>1775144178260</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1775144178260</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +184,7 @@
     <MESSAGE value="第一章 8 节全部 节全部完成。下一章将切换到 B 视角" />
     <MESSAGE value="2026年4月2日18点48分" />
     <MESSAGE value="2026年4月2日19点05分" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026年4月2日19点05分" />
+    <MESSAGE value="2026年4月2日23点36分" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026年4月2日23点36分" />
   </component>
 </project>
