@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="feat(smb2):换个AI重写">
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/04_人物设定.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v2/设定/04_人物设定.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v2/设定/05_定场诗集.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v2/设定/05_定场诗集.md" afterDir="false" />
-    </list>
+    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="feat(smb2)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775043211106</updated>
-      <workItem from="1775043212120" duration="7302000" />
+      <workItem from="1775043212120" duration="10250000" />
     </task>
     <task id="LOCAL-00001" summary="feat(smb):添加蚀名簿">
       <option name="closed" value="true" />
@@ -111,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775112083840</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat(smb2)">
+      <option name="closed" value="true" />
+      <created>1775115088183</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775115088183</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +127,7 @@
     <MESSAGE value="fix(smb):让AI理解POV双线叙事好困难，AI文笔好烂" />
     <MESSAGE value="feat(smb):先让AI发挥主观能动性，自己先写吧，AI写完我再做编辑校对重写等工作" />
     <MESSAGE value="feat(smb2):换个AI重写" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(smb2):换个AI重写" />
+    <MESSAGE value="feat(smb2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(smb2)" />
   </component>
 </project>
