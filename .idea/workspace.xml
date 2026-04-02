@@ -2,123 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="feat(smb):先让AI发挥主观能动性，自己先写吧，AI写完我再做编辑校对重写等工作">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/00_项目说明.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/01_故事大纲.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/02_目录结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/03_项目进度.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第01节_雨落纸灰.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第01节_雨落纸灰_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第02节_瑞成纸马铺.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第02节_瑞成纸马铺_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第03节_井字巷的回声.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第03节_井字巷的回声_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第04节_无字碑.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第04节_无字碑_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第05节_未知号码.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第05节_未知号码_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第06节_工地里不该有的井.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第06节_工地里不该有的井_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第07节_空白通讯录.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第07节_空白通讯录_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第08节_失名者的替身.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第08节_失名者的替身_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第09节_方志抄本的改笔.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第09节_方志抄本的改笔_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第10节_纸羽的巢.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第10节_纸羽的巢_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第11节_点名.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第11节_点名_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第12节_旧城墙下的编册处.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第一部_名册出土/第12节_旧城墙下的编册处_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第25节_契虫入账.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第25节_契虫入账_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第26节_归门失路.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第26节_归门失路_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第27节_家谱里多出来的人.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第27节_家谱里多出来的人_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第28节_称骨婆.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第28节_称骨婆_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第29节_旧账簿.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第29节_旧账簿_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第30节_数字化工程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第30节_数字化工程_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第31节_扫描件的鬼手.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第31节_扫描件的鬼手_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第32节_瑞成祖谱.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第32节_瑞成祖谱_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第33节_倒因狐.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第33节_倒因狐_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第34节_城北新站.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第34节_城北新站_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第35节_被统一的旧名.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第35节_被统一的旧名_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第36节_你不是你.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第三部_关系断裂/第36节_你不是你_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第13节_灯下人.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第13节_灯下人_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第14节_证词互杀.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第14节_证词互杀_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第15节_录像里没有你.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第15节_录像里没有你_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第16节_口供像抄本.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第16节_口供像抄本_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第17节_解释的税.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第17节_解释的税_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第18节_被删掉的一页.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第18节_被删掉的一页_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第19节_城隍借道.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第19节_城隍借道_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第20节_借名.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第20节_借名_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第21节_伪碑.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第21节_伪碑_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第22节_口中的空位.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第22节_口中的空位_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第23节_不可引用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第二部_解释崩塌/第24节_解释者之死.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第37节_名权.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第37节_名权_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第38节_一次编册.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第38节_一次编册_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第39节_纸上层崩塌.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第39节_纸上层崩塌_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第40节_口中层崩塌.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第40节_口中层崩塌_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第41节_心里层起火.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第41节_心里层起火_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第42节_撕册.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第42节_撕册_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第43节_立誓.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第43节_立誓_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第44节_以名换城.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第44节_以名换城_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第45节_归还.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第45节_归还_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第46节_百鬼夜行入城.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第46节_百鬼夜行入城_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第47节_城书合页.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第47节_城书合页_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第48节_余烬.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/第四部_城为一书/第48节_余烬_摘要.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/评价/总体评价.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/评价/第一部_名册出土_评价.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/评价/第三部_关系崩塔_评价.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/百鬼入城/评价/第二部_解释崩塔_评价.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/00_项目说明.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/01_故事大纲.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/02_目录结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/03_项目进度.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/04_人物设定.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/05_定场诗集.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/06_参考资料.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/07_理论框架.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿/chapters/第一章_侵/第01-03节_摘要.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/《蚀名簿》完整版.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/00_项目说明.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/01_故事大纲.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/02_目录结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/03_项目进度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/04_人物设定.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/05_定场诗集.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/06_参考资料.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿v2/设定/07_理论框架.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775043211106</updated>
-      <workItem from="1775043212120" duration="5132000" />
+      <workItem from="1775043212120" duration="6572000" />
     </task>
     <task id="LOCAL-00001" summary="feat(smb):添加蚀名簿">
       <option name="closed" value="true" />
@@ -210,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775057305019</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat(smb):先让AI发挥主观能动性，自己先写吧，AI写完我再做编辑校对重写等工作">
+      <option name="closed" value="true" />
+      <created>1775110400665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775110400665</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
