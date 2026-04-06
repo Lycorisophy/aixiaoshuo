@@ -2,38 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="2026年4月4日17点56分">
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/.cursor/rules/shinmeibo-canon.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/.cursor/rules/shinmeibo-canon.mdc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》侦探推理要素完整方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》侦探推理要素完整方案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》写作进度.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》写作进度.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》创作指导手册_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》创作指导手册_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》哲学隐喻使用备忘_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》哲学隐喻使用备忘_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》文档索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》文档索引.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》服化道与场景设计完整方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》服化道与场景设计完整方案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》服化道与场景设计精要版.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》服化道与场景设计精要版.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》样稿.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》样稿.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第06节_纸翁缄默_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第06节_纸翁缄默_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第07节_户籍涂痕_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第07节_户籍涂痕_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第08节_决意下井_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第08节_决意下井_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第09节_暗流涌动_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第09节_暗流涌动_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第12节_黄昏之前_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第12节_黄昏之前_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第27节_井底非井_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第27节_井底非井_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第29节_井底之声_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第29节_井底之声_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第40节_雨落如初_v1.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》正文_第40节_雨落如初_v1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》真设定集V4.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》真设定集V4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》章节任务卡_骨架版.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》章节任务卡_骨架版.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》长篇骨架.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v6/《蚀名簿》长篇骨架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》08-17节故事大纲_AB切换理由与执行_v1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》侦探推理要素完整方案.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》创作指导手册_v1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》哲学隐喻使用备忘_v1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》服化道与场景设计精要版.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》真设定集V4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》科学修辞与认知框架备忘_v1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》章末钩子补丁_第07节_三段式_v1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》蚀名簿核心设定重构方案以及结局设定_v1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》视角过渡方案_第07后_A到B_v1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》评审与后续大纲_2026-04-04.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/蚀名簿连载版/设定集/《蚀名簿》长篇骨架.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/.cursor/rules/蚀名簿-v7-写作.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/.cursor/rules/蚀名簿-v7-写作.mdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/《蚀名簿》新版写作指导_京极式.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/《蚀名簿》新版写作指导_京极式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/写作备忘_侵幕前四节修订与第五节备忘.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/写作备忘_侵幕前四节修订与第五节备忘.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/写作备忘_关键场次信息投放.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/写作备忘_关键场次信息投放.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/写作进度_五幕成稿.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/写作进度_五幕成稿.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/_56节元信息与映射自检清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/_56节元信息与映射自检清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第10节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第10节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第11节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第11节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第12节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第12节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第13节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第13节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第14节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第14节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第15节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第15节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第16节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第16节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第3节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第3节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第4节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第4节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第5节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第5节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第9节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第9节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第1节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第1节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第3节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第3节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第4节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第4节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第5节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第5节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第1节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第1节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第3节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第3节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第4节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第4节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第5节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第5节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第10节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第10节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第11节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第11节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第12节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第12节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第13节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第13节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第14节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第14节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第15节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第15节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第16节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第16节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第1节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第1节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第3节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第3节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第4节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第4节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第5节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第5节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第9节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第9节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第1节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第1节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第3节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第3节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第4节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第4节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第5节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第5节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/设定集/01_背景_时间与地点.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/设定集/01_背景_时间与地点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/设定集/02_人物设定_整理自真设定集V4.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/设定集/02_人物设定_整理自真设定集V4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/设定集/03_参考资料与炫学_整理自真设定集V4.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/设定集/03_参考资料与炫学_整理自真设定集V4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/设定集/05_序号与正文节号对照表.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/设定集/05_序号与正文节号对照表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/设定集/05_故事大纲_事件结构_时间正序.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/设定集/05_故事大纲_事件结构_时间正序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/设定集/06_结局设定_整理自真设定集V4.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/设定集/06_结局设定_整理自真设定集V4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +131,7 @@
       <workItem from="1775122894134" duration="9077000" />
       <workItem from="1775208403056" duration="8657000" />
       <workItem from="1775374997666" duration="631000" />
+      <workItem from="1775449480831" duration="3088000" />
     </task>
     <task id="LOCAL-00001" summary="feat(smb):添加蚀名簿">
       <option name="closed" value="true" />
