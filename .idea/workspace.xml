@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="2026年4月8日18点45分">
+    <list default="true" id="c161c929-db3f-4158-8241-73fcbd575a7e" name="更改" comment="2026年4月8日19点00分">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/.cursor/rules/蚀名簿-v7-写作.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/.cursor/rules/蚀名簿-v7-写作.mdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/《蚀名簿》读者向_第3幕.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/《蚀名簿》读者向_第3幕.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/_56节元信息与映射自检清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/_56节元信息与映射自检清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第14节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第14节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第9节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第1幕第9节.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第1节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第1节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第3节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第3节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第4节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第4节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第5节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第5节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第2幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第1节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第1节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第3幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第12节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第12节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第13节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第13节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第14节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第4幕第14节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第1节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第1节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第2节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第2节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第3节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第3节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第4节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第4节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第5节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第5节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第6节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第6节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第7节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第7节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第8节.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/正文分节/《蚀名簿》第5幕第8节.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/设定集/正文_已钉专名与互见.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/设定集/正文_已钉专名与互见.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/蚀名簿 v7/读者向/《蚀名簿》读者向_第1幕.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/读者向/《蚀名簿》读者向_第1幕.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蚀名簿 v7/读者向/《蚀名簿》读者向_第2幕.md" beforeDir="false" afterPath="$PROJECT_DIR$/蚀名簿 v7/读者向/《蚀名簿》读者向_第2幕.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +99,8 @@
       <workItem from="1775449480831" duration="3088000" />
       <workItem from="1775481284671" duration="62000" />
       <workItem from="1775617919707" duration="26000" />
-      <workItem from="1775645040669" duration="832000" />
+      <workItem from="1775645040669" duration="8791000" />
+      <workItem from="1775828216453" duration="4283000" />
     </task>
     <task id="LOCAL-00001" summary="feat(smb):添加蚀名簿">
       <option name="closed" value="true" />
@@ -231,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775645128784</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2026年4月8日19点00分">
+      <option name="closed" value="true" />
+      <created>1775646061636</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1775646061636</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +295,7 @@
     <MESSAGE value="2026年4月4日17点56分" />
     <MESSAGE value="2026年4月6日21点15分" />
     <MESSAGE value="2026年4月8日18点45分" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026年4月8日18点45分" />
+    <MESSAGE value="2026年4月8日19点00分" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026年4月8日19点00分" />
   </component>
 </project>
